@@ -16,7 +16,6 @@ public class AboutMe {
     String secondLanguage = "English";
     String learningLanguage = "Italian (beginner)"
     
-
     // Current learning
     String programmingLanguages = "Java, Python, JavaScript";
     String markupLanguages = "HTML, CSS";
