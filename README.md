@@ -1,16 +1,31 @@
-## Hi there 👋
+## About me
 
-<!--
-**andremarko/andremarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` java
+package people;
 
-Here are some ideas to get you started:
+public class AboutMe {
+  public static void main(String[] args){
+    // Me
+    String name = "André";
+    String currentOccupation = "Software development student";
+    String affinity = "Back-end development";
+    String location = "São Paulo, SP - Brasil";
+    String nativeLanguage = "Portuguese";
+    String advancedLanguage = "English";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    // Current learning
+    String programmingLanguages = "Java, Python and C";
+    String computerLanguages = "HTML, CSS, MySQL, Oracle, JSON" ;
+    String humanLanguage = "Italian";
+  
+    // Contact
+    String linkedin = "andrem7";    
+  }
+}
+
+```
+
+
+
+
+
