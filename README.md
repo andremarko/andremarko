@@ -10,21 +10,30 @@ public class AboutMe {
     String currentOccupation = "Software development student";
     String affinity = "Back-end development";
     String location = "São Paulo, SP - Brasil";
+
+    // Languages
     String nativeLanguage = "Portuguese";
-    String advancedLanguage = "English";
+    String secondLanguage = "English";
+    String learningLanguage = "Italian (beginner)"
+    
 
     // Current learning
-    String programmingLanguages = "Java, Python and C";
-    String computerLanguages = "HTML, CSS, MySQL, Oracle, JSON" ;
-    String humanLanguage = "Italian";
-  
+    String programmingLanguages = "Java, Python, JavaScript";
+    String markupLanguages = "HTML, CSS";
+    String queryLanguage = "SQL";
+
+    // Tools
+    String developmentEnvironment = "VSCode, Eclipse";
+    String databaseTools = "MySQL, Oracle";
+    String modelingTools = "Oracle Data Modeler, Astah UML";
+
     // Contact
-    String linkedin = "andrem7";    
+    String linkedin = "https://www.linkedin.com/in/andrem7";
+
   }
 }
 
 ```
-
 
 
 
