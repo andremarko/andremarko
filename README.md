@@ -29,6 +29,8 @@ public class AndreMarcolongo {
     // Contact
     String linkedin = "https://www.linkedin.com/in/andrem7";
 
+    // More
+    String more = "Currently working mostly on private repositories"; 
   }
 }
 
