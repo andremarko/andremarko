@@ -3,7 +3,7 @@
 ``` java
 package people;
 
-public class AboutMe {
+public class AndreMarcolongo {
   public static void main(String[] args){
     // Me
     String name = "André";
