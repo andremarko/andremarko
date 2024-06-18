@@ -22,7 +22,7 @@ public class AndreMarcolongo {
     String queryLanguage = "SQL";
 
     // Tools
-    String developmentEnvironment = "VSCode, Eclipse";
+    String developmentEnvironment = "VSCode, Eclipse", NeoVim;
     String databaseTools = "MySQL, Oracle";
     String modelingTools = "Oracle Data Modeler, Astah UML";
 
